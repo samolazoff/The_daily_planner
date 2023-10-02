@@ -1,0 +1,22 @@
+{
+  "name": "daily_planer",
+  "version": "1.0.0",
+  "description": "Front for daly planer",
+  "main": "idex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samolazoff/The_daily_planner.git"
+  },
+  "author": "Samoalzoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samolazoff/The_daily_planner/issues"
+  },
+  "homepage": "https://github.com/samolazoff/The_daily_planner#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
